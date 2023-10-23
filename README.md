@@ -33,4 +33,6 @@
 
 ## Appendix
 
-* 코드와 3D 모델 파일 등 모든 프로젝트 관련 자료는 국립재활원 보조기기 열린플랫폼에서 확인할 수 있습니다. [편한손길 스마트 서랍장](http://www.nrc.go.kr/at_rd/web/lay2/program/S1T88C89/openPlatform/deviceInfo/view.do?open_platform_seq=471&start_dt=&end_dt=&keyword=&category1=&category2=&category3=&rows=6&cpage=6&order_type=OPEN_PLATFORM_SEQ)
+* 코드와 3D 모델 파일 등 모든 프로젝트 관련 자료는 국립재활원 보조기기 열린플랫폼에서 확인할 수 있습니다.
+
+  [편한손길 스마트 서랍장](http://www.nrc.go.kr/at_rd/web/lay2/program/S1T88C89/openPlatform/deviceInfo/view.do?open_platform_seq=471&start_dt=&end_dt=&keyword=&category1=&category2=&category3=&rows=6&cpage=6&order_type=OPEN_PLATFORM_SEQ)
