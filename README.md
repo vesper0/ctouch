@@ -31,6 +31,13 @@
 * Python 3.9
 ```
 
+## Output
+
+* 시연 영상입니다.
+
+  [Youtube](https://www.youtube.com/watch?v=_rKvaTeL_Ys)
+
+
 ## Appendix
 
 * 코드와 3D 모델 파일 등 모든 프로젝트 관련 자료는 국립재활원 보조기기 열린플랫폼에서 확인할 수 있습니다.
